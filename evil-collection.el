@@ -243,6 +243,7 @@ Used as a fallback when no explicit delay is specified for a mode in
     free-keys
     geiser
     ggtags
+    ghostel
     git-timemachine
     gited
     gnus
